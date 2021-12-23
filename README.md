@@ -9,5 +9,8 @@
 <br><br>
 
 <h1>🔮 Criando um software para capturas de sys_call_tables() em kernel 5.x.x </h1>
-<br><br>
-  - Vamos apresentar então o nosso código aqui
+<br>
+
+  - Vamos apresentar então o nosso código aqui:
+  <br>
+  <img src="https://imgur.com/rtkqHyZ.png">
