@@ -47,13 +47,12 @@
 <img src="https://imgur.com/Vg2R5Bh.png">
 
 <b>Esse foi o endereço retornado em minha máquina e na sua máquina o endereço será diferente do meu. E para descarregarmos o buffer do kernel, apenas digite <code>rmmod FindSyscall.ko</code> e o seu Kernel não terá mais nada se digitar <code>dmesg</code>. </b>
-
-<br><br>
+<br>
 
 Bom, esse conteúdo aqui foi super necessário para que nós pudessemos dar continuidade aos nosso projeto, então criei esse tópico específico para continuarmos os nossos estudos sobre LKM e RK. Não esquecendo, esse código não foi eu quem criei mas com base no que estudei, me interessei em explica-lo para todos vocês sobre o meu código. O criador do código é o <a href="https://github.com/f0lg0">f0lg0</a>, então todos os créditos do código será para ele.
 <br><br>
 
-Esppero que vocês tenham gostado desse tópico e se você estiver interessado em criar seu rootkit, continue lendo meus tópicos, todos os dias estarei trazendo aqui mais tópicos com o mesmo intuito e com isso iremos criar o nosso Rootkit 5.x.x! Espero vocês no próximo Git! Até breve!
+Espero que vocês tenham gostado desse tópico e se você estiver interessado em criar seu rootkit, continue lendo meus tópicos, todos os dias estarei trazendo aqui mais tópicos com o mesmo intuito e com isso iremos criar o nosso Rootkit 5.x.x! Espero vocês no próximo Git! Até breve!
 <br>
 
 ~# Mark Disconnected...
