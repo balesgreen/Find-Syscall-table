@@ -12,5 +12,5 @@
 <br>
 
   - Vamos apresentar então o nosso código aqui:
-  <br>
+  
   <img src="https://imgur.com/rtkqHyZ.png">
